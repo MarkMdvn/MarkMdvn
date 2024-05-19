@@ -1,6 +1,6 @@
 # 🏂🏻 Mark Mordvin
 
-**`Full-stack developer / cybersecurity`**
+**`Full-stack developer`**
 
 <p>
 <br>
