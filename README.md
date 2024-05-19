@@ -4,7 +4,7 @@
 
 <p>
 <br>
-   Backend developer who’s been fascinated by tech ever since I could remember. I'm constantly learning and applying that knowledge to build software solutions or creating apps that are not just good, but great. If you're interested in my work visit my website, you won't regret it.  (work in progress)
+   Fullstack developer who’s been fascinated by tech ever since I could remember. I'm constantly learning and applying that knowledge to build software solutions or creating apps that are not just good, but great. If you're interested in my work visit my website, you won't regret it.  (work in progress)
 </p>
 <br>
    <p align="left">
