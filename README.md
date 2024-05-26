@@ -34,7 +34,6 @@
 
 ### 🛠️ Projects
 
-## Projects
 
 | Online Library | Rate the Movie |
 | ------- | ----------- |
