@@ -34,13 +34,12 @@
 
 ### 🛠️ Projects
 
-<!-- projects -->
-Online Library
+## Projects
 
-<a href="https://github.com/DaVinci0003/LibraryDemo">
-<img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/img.png" alt="onlineLibrary" width="400px">
-</a>
-
+| Online Library | Rate the Movie |
+| ------- | ----------- |
+| <a href="https://github.com/DaVinci0003/LibraryDemo"><img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/img.png" alt="Online Library" width="400px"></a> | <a href="https://github.com/MarkMdvn/Movie-Rating-WebApp"><img src="https://github.com/MarkMdvn/Movie-Rating-WebApp/blob/main/images/Main_img.png" alt="Rate a Movie" width="400px"></a> |
+|  |  |
 ### 📊 Stats
 
 <!-- different achievments -->
