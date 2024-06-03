@@ -9,7 +9,7 @@
 <br>
    <p align="left">
       <a href="work in progress">
-         <img alt="Official Website" href="" title="Official Website" src="https://img.shields.io/badge/Official%20Website-8900FF?style=flat&logo=Fireship&logoColor=black"/></a>
+         <img alt="Official Website" href="" title="Official Website" src="https://img.shields.io/badge/My Website-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white"/></a>
    </p>
 
 ---
