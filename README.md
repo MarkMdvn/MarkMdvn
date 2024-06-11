@@ -34,6 +34,10 @@
 
 ### 🛠️ Projects
 
+| FarHouse | 
+| ------- | 
+| <a href="https://github.com/MarkMdvn/FarHouse"><img src="https://github.com/MarkMdvn/FarHouse/blob/main/Hotel-Project-Frontend/public/readme-images/1-Main-Homepage.png" alt="FarHouse" width="400px"></a> | 
+| Project will be online soon! |  
 
 | Online Library | Rate the Movie |
 | ------- | ----------- |
