@@ -34,9 +34,9 @@
 
 ### 🛠️ Projects
 
-| FarHouse | 
-| ------- | 
-| <a href="https://github.com/MarkMdvn/FarHouse"><img src="https://github.com/MarkMdvn/FarHouse/blob/main/Hotel-Project-Frontend/public/readme-images/1-Main-Homepage.png" alt="FarHouse" width="400px"></a> | 
+| FarHouse | Work in progress... |
+| ------- | ----------- |
+| <a href="https://github.com/MarkMdvn/FarHouse"><img src="https://github.com/MarkMdvn/FarHouse/blob/main/Hotel-Project-Frontend/public/readme-images/1-Main-Homepage.png" alt="FarHouse" width="400px"></a> |  |
 | Project will be online soon! |  
 
 | Online Library | Rate the Movie |
@@ -53,7 +53,7 @@
 <details>
  <summary><h3>👨‍💻 More about me </h3></summary>
    <!-- more about me -->
- Backend Developer who is finishing the second year of the associate degree DAM(Desarrollo de Aplicaciones Multiplataforma) since the degree is a relevant requirement. I carry out all kinds of work on my own and have numerous projects that demonstrate my knowledge in the following technologies: Java, Spring Boot, SQL (PostgreSQL and MySQL), Maven, HTML, CSS, JavaScript, Python, Git, and more.
+ Fullstack Developer who is finishing the second year of the associate degree DAM(Desarrollo de Aplicaciones Multiplataforma) since the degree is a relevant requirement. I carry out all kinds of work on my own and have numerous projects that demonstrate my knowledge in the following technologies: Java, Spring Boot, SQL (PostgreSQL and MySQL), Maven, HTML, CSS, JavaScript, Python, Git, and more.
 
 Besides my studies, I always learn things on my own, so after so much time, I have acquired knowledge that allows me to develop both the backend and the frontend of web applications.
 
