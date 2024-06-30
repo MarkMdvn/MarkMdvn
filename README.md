@@ -42,7 +42,7 @@ Fullstack developer with a deep-rooted fascination for understanding how everyth
 | Online Library | Rate the Movie |
 | ------- | ----------- |
 | <a href="https://github.com/DaVinci0003/LibraryDemo"><img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/img.png" alt="Online Library" width="400px"></a> | <a href="https://github.com/MarkMdvn/Movie-Rating-WebApp"><img src="https://github.com/MarkMdvn/Movie-Rating-WebApp/blob/main/images/Main_img.png" alt="Rate a Movie" width="400px"></a> |
-| 30/04/2024 | 26/05/2023 |
+| <div align="center">30/04/2024</div> | <div align="center">26/05/2023</div> |
 ### 📊 Stats
 
 <!-- different achievments -->
