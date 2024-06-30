@@ -37,7 +37,7 @@ Fullstack developer with a deep-rooted fascination for understanding how everyth
 | FarHouse | Work in progress... |
 | ------- | ----------- |
 | <a href="https://github.com/MarkMdvn/FarHouse"><img src="https://github.com/MarkMdvn/FarHouse/blob/main/Hotel-Project-Frontend/public/readme-images/1-Main-Homepage.png" alt="FarHouse" width="400px"></a> |  |
-| Project will be online soon! |  
+| <div align="center">12/06/2024 - Project will be online soon! </div> |  
 
 | Online Library | Rate the Movie |
 | ------- | ----------- |
