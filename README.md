@@ -34,13 +34,13 @@ Fullstack developer with a deep-rooted fascination for understanding how everyth
 
 ### 🛠️ Projects
 
-| Wallapop clone | FarHouse |
+| Wallapop clone | Hotel Managment webapp |
 | ------- | ----------- |
 |  <a href="https://github.com/MarkMdvn/uallapop"><img src="https://github.com/MarkMdvn/uallapop/blob/main/WallapopClient/public/github-images/main-img.png" alt="Uallapop" width="400px"></a> | <a href="https://github.com/MarkMdvn/FarHouse"><img src="https://github.com/MarkMdvn/FarHouse/blob/main/Hotel-Project-Frontend/public/readme-images/1-Main-Homepage.png" alt="FarHouse" width="400px"></a> |  
 | <div align="center">Work in progress... </div> | <div align="center">12/06/2024 - Project will be online soon! </div> |
 
 
-| Online Library | Rate the Movie |
+| Online Library | Movie rating system |
 | ------- | ----------- |
 | <a href="https://github.com/DaVinci0003/LibraryDemo"><img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/img.png" alt="Online Library" width="400px"></a> | <a href="https://github.com/MarkMdvn/Movie-Rating-WebApp"><img src="https://github.com/MarkMdvn/Movie-Rating-WebApp/blob/main/images/Main_img.png" alt="Rate a Movie" width="400px"></a> |
 | <div align="center">30/04/2024</div> | <div align="center">26/05/2023</div> |
