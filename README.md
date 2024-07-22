@@ -37,7 +37,7 @@ Fullstack developer with a deep-rooted fascination for understanding how everyth
 | Wallapop clone | FarHouse |
 | ------- | ----------- |
 |  <a href="https://github.com/MarkMdvn/uallapop"><img src="https://github.com/MarkMdvn/uallapop/blob/main/WallapopClient/public/github-images/main-img.png" alt="Uallapop" width="400px"></a> | <a href="https://github.com/MarkMdvn/FarHouse"><img src="https://github.com/MarkMdvn/FarHouse/blob/main/Hotel-Project-Frontend/public/readme-images/1-Main-Homepage.png" alt="FarHouse" width="400px"></a> |  
-| <div align="center">Workk in progress... </div> | <div align="center">12/06/2024 - Project will be online soon! </div> |
+| <div align="center">Work in progress... </div> | <div align="center">12/06/2024 - Project will be online soon! </div> |
 
 
 | Online Library | Rate the Movie |
