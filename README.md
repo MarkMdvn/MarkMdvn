@@ -8,7 +8,7 @@ Fullstack developer with a deep-rooted fascination for understanding how everyth
 </p>
 <br>
    <p align="left">
-      <a href="work in progress">
+      <a href="https://markmd.netlify.app/">
          <img alt="Official Website" href="" title="Official Website" src="https://img.shields.io/badge/My Website-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white"/></a>
    </p>
 
