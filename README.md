@@ -34,7 +34,7 @@ Fullstack developer with a deep-rooted fascination for understanding how everyth
 
 ### 🛠️ Projects
 
-| Wallapop clone | Hotel Managment webapp |
+| 👑Wallapop clone👑 | Hotel Managment webapp |
 | ------- | ----------- |
 |  <a href="https://github.com/MarkMdvn/uallapop"><img src="https://github.com/MarkMdvn/uallapop/blob/main/WallapopClient/public/github-images/main-img.png" alt="Uallapop" width="400px"></a> | <a href="https://github.com/MarkMdvn/FarHouse"><img src="https://github.com/MarkMdvn/FarHouse/blob/main/Hotel-Project-Frontend/public/readme-images/1-Main-Homepage.png" alt="FarHouse" width="400px"></a> |  
 | <div align="center">Work in progress... </div> | <div align="center">12/06/2024 - Project will be online soon! </div> |
