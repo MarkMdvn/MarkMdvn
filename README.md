@@ -4,7 +4,7 @@
 
 <p>
 <br>
-Fullstack developer with a deep-rooted fascination for understanding how everything works, a passion I had as long as I can remember. Continuously learning and applying that knowledge to engineer software solutions and develop web applications. Interested in my work? Visit my website; you won't regret it. (work in progress)
+Backend developer with enough knowledge about frontend to build a pixel-perfect UI, because who will do that if not me. I like investigating how everything works because I think that the world is mostly digital nowadays and knowledge is power. Continuously learning and applying that knowledge to engineer cool software and develop web applications. Interested in my work? Visit my website; you won't regret it. 
 </p>
 <br>
    <p align="left">
