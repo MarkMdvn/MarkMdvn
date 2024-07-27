@@ -54,7 +54,7 @@ Backend developer with enough knowledge about frontend to build a pixel-perfect 
 <details>
  <summary><h3>👨‍💻 More about me </h3></summary>
    <!-- more about me -->
- Fullstack Developer who is finishing the second year of the associate degree DAM(Desarrollo de Aplicaciones Multiplataforma) since the degree is a relevant requirement. I carry out all kinds of work on my own and have numerous projects that demonstrate my knowledge in the following technologies: Java, Spring Boot, SQL (PostgreSQL and MySQL), Maven, HTML, CSS, JavaScript, Python, Git, and more.
+ Backend Developer who is finishing the second year of the associate degree DAM(Desarrollo de Aplicaciones Multiplataforma) since the degree is a relevant requirement. I carry out all kinds of work on my own and have numerous projects that demonstrate my knowledge in the following technologies: Java, Spring Boot, SQL (PostgreSQL and MySQL), Maven, HTML, CSS, JavaScript, Python, Git, and more.
 
 Besides my studies, I always learn things on my own, so after so much time, I have acquired knowledge that allows me to develop both the backend and the frontend of web applications.
 
