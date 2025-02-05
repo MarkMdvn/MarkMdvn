@@ -4,7 +4,7 @@
 
 <p>
 <br>
-Backend developer with enough knowledge about frontend to build a pixel-perfect UI, because who will do that if not me. I like investigating how everything works because I think that the world is mostly digital nowadays and knowledge is power. Continuously learning and applying that knowledge to engineer cool software and develop web applications. Interested in my work? Visit my website; you won't regret it. 
+Full-stack developer specializing in AI development and system architecture on AWS. Love investigating how everything works because nowadays the world is digital and knowledge is power. Continuously learning to engineer cool software and develop web applications. Interested in my work? Visit my website; you won't regret it. 
 </p>
 <br>
    <p align="left">
