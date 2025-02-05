@@ -54,8 +54,6 @@ Full-stack developer specializing in AI development and system architecture on A
 <details>
  <summary><h3>👨‍💻 More about me </h3></summary>
    <!-- more about me -->
- Backend Developer who is finishing the second year of the associate degree DAM(Desarrollo de Aplicaciones Multiplataforma) since the degree is a relevant requirement. I carry out all kinds of work on my own and have numerous projects that demonstrate my knowledge in the following technologies: Java, Spring Boot, SQL (PostgreSQL and MySQL), Maven, HTML, CSS, JavaScript, Python, Git, and more.
+ Full-Stack Developer specializing in backend development and cloud architecture with AWS. I work on a wide range of projects, applying my expertise in technologies such as Java, Spring Boot, SQL (PostgreSQL and MySQL), Maven, HTML, CSS, JavaScript, Python, Git, and more.
 
-Besides my studies, I always learn things on my own, so after so much time, I have acquired knowledge that allows me to develop both the backend and the frontend of web applications.
-
-My goal is to enter this sector to start my career and constantly develop myself since it is something I enjoy, besides allowing me to achieve my objectives.
+Beyond my professional work, I continuously expand my knowledge, allowing me to develop both backend and frontend solutions efficiently. My goal is to keep growing in the industry, refining my skills, and building scalable, high-performance applications.
