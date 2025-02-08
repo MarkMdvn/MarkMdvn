@@ -47,7 +47,8 @@ Full-stack developer specializing in AI development and system architecture on A
 ### 📊 Stats
 
 <!-- different achievments -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMdvn&layout=compact&theme=dark)
+![MarkMdvn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarkMdvn&theme=nightowl&hide_border=true)
+![MarkMdvn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMdvn&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
 #
 
