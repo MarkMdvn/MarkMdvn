@@ -1,4 +1,4 @@
-# 🏂🏻 Mark Mordvin
+# Mark Mordvin
 
 **`Full-stack developer`**
 
