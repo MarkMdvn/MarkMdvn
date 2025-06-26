@@ -16,7 +16,7 @@ Curious to see my work? Visit my website. You won't regret it.
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -34,7 +34,7 @@ Curious to see my work? Visit my website. You won't regret it.
 
 #
 
-### 🛠️ Projects
+### 🛠Main Projects
 
 | 👑 Embeddable AI Web Chatbot Assistant 👑 | Custom QR - WordPress Discount Plugin |
 | :---: | :---: |
@@ -53,7 +53,7 @@ Curious to see my work? Visit my website. You won't regret it.
 | <div align="center">Built a full-stack Digital Library platform for advanced content management and user interaction. The system features a complete book cataloging module, user account management with borrowing history, and an intuitive interface for content discovery and engagement.</div> | <div align="center">Created a dynamic Movie Rating and Discovery Platform by integrating with the TMDB external API. This application allows users to contribute ratings and build a community-driven recommendation engine, showcasing skills in third-party API integration and user-generated content systems.</div> |
 -->
 
-### 📊 Stats
+### Stats
 
 <!-- different achievments -->
 ![MarkMdvn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarkMdvn&theme=nightowl&hide_border=true)
@@ -64,4 +64,6 @@ Curious to see my work? Visit my website. You won't regret it.
 <details>
  <summary><h3>👨‍💻 More about me </h3></summary>
    <!-- more about me -->
+A Full-Stack Architect with a deep focus on crafting robust backend systems and scalable cloud infrastructure on AWS. My expertise is centered on the Java ecosystem—leveraging Spring Boot, Maven, and SQL databases like PostgreSQL and MySQL to build enterprise-grade applications. While my specialty is the backend, I maintain full-stack proficiency with Python and JavaScript to engineer seamless, end-to-end solutions.
 
+My commitment is to continuous improvement; I don't just learn new technologies, I integrate them to refine my approach to building high-performance software. The goal is always the same: to create applications that are not just functional, but truly exceptional.
