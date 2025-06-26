@@ -4,7 +4,9 @@
 
 <p>
 <br>
-Full-stack developer specializing in AI development and system architecture on AWS. Love investigating how everything works because nowadays the world is digital and knowledge is power. Continuously learning to engineer cool software and develop web applications. Interested in my work? Visit my website; you won't regret it. 
+Full-stack architect specializing in AI-driven applications and scalable AWS infrastructure. I'm driven by the fact that our world is becoming irreversibly digital. To me, knowledge of these systems is power—the power to architect real-world change directly from my keyboard. 
+
+Curious to see my work? Visit my website. You won't regret it.
 </p>
 <br>
    <p align="left">
@@ -34,22 +36,23 @@ Full-stack developer specializing in AI development and system architecture on A
 
 ### 🛠️ Projects
 
-| 👑Embeddable AI Web Chatbot Assistant👑 | Custom QR - WordPress Discount Plugin |
-| ------- | ----------- |
-|  <a href="https://github.com/MarkMdvn/aws-web-chatbot"><img src="https://github.com/MarkMdvn/aws-web-chatbot/blob/main/docs/assets/3-both-cases.jpg" alt="Web AI Assistant" width="400px"></a> | <a href="https://github.com/MarkMdvn/qr-discount-wp"><img src="https://github.com/MarkMdvn/qr-discount-wp/blob/main/public/github-readme-images/2-transacciones-realizadas.png" alt="Custom QR" width="400px"></a> |  
-| <div align="center"> epoint.es - alcamancha.es </div> | <div align="center"> 40+ companies and 900+ users participated </div> |
+| 👑 Embeddable AI Web Chatbot Assistant 👑 | Custom QR - WordPress Discount Plugin |
+| :---: | :---: |
+| <div align="center"><a href="https://github.com/MarkMdvn/aws-web-chatbot"><img src="https://github.com/MarkMdvn/aws-web-chatbot/blob/main/docs/assets/3-both-cases.jpg" alt="Web AI Assistant" width="400px"></a></div> | <div align="center"><a href="https://github.com/MarkMdvn/qr-discount-wp"><img src="https://github.com/MarkMdvn/qr-discount-wp/blob/main/public/github-readme-images/2-transacciones-realizadas.png" alt="Custom QR" width="400px"></a></div> |
+| <div align="center">Architected a serverless AI assistant to automate customer engagement. This scalable, embeddable solution leverages AWS Lambda and Large Language Models to provide intelligent, real-time support for clients like epoint.es, significantly reducing response times.</div> | <div align="center">Developed a complete digital campaign ecosystem from scratch. This custom WordPress plugin empowered over 40 companies to process secure QR code-based discounts for 900+ users, featuring multi-layered dashboards for real-time transaction monitoring and data analysis.</div> |
 
+| 👑 Wallapop clone 👑 | Hotel Managment webapp |
+| :---: | :---: |
+| <div align="center"><a href="https://github.com/MarkMdvn/uallapop"><img src="https://github.com/MarkMdvn/uallapop/blob/main/WallapopClient/public/github-images/main-img.png" alt="Uallapop" width="400px"></a></div> | <div align="center"><a href="https://github.com/MarkMdvn/FarHouse"><img src="https://github.com/MarkMdvn/FarHouse/blob/main/Hotel-Project-Frontend/public/readme-images/1-Main-Homepage.png" alt="FarHouse" width="400px"></a></div> |
+| <div align="center">Developing a full-stack e-commerce marketplace inspired by Wallapop. The platform features robust user authentication, dynamic product listing and management, and advanced search capabilities, engineered to handle complex user interactions on a modern technology stack.</div> | <div align="center">Engineered a comprehensive Hotel Management System designed to streamline hospitality operations. This web application provides administrators with a powerful suite of tools for booking management, room inventory control, and guest services, enhancing both operational efficiency and the guest experience.</div> |
 
-| 👑Wallapop clone👑 | Hotel Managment webapp |
-| ------- | ----------- |
-|  <a href="https://github.com/MarkMdvn/uallapop"><img src="https://github.com/MarkMdvn/uallapop/blob/main/WallapopClient/public/github-images/main-img.png" alt="Uallapop" width="400px"></a> | <a href="https://github.com/MarkMdvn/FarHouse"><img src="https://github.com/MarkMdvn/FarHouse/blob/main/Hotel-Project-Frontend/public/readme-images/1-Main-Homepage.png" alt="FarHouse" width="400px"></a> |  
-| <div align="center">Work in progress... </div> | <div align="center"> Project will be online soon! </div> |
-
-
+<!--
 | Online Library | Movie rating system |
-| ------- | ----------- |
-| <a href="https://github.com/DaVinci0003/LibraryDemo"><img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/img.png" alt="Online Library" width="400px"></a> | <a href="https://github.com/MarkMdvn/Movie-Rating-WebApp"><img src="https://github.com/MarkMdvn/Movie-Rating-WebApp/blob/main/images/Main_img.png" alt="Rate a Movie" width="400px"></a> |
-| <div align="center">30/04/2024</div> | <div align="center">26/05/2023</div> |
+| :---: | :---: |
+| <div align="center"><a href="https://github.com/DaVinci0003/LibraryDemo"><img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/img.png" alt="Online Library" width="400px"></a></div> | <div align="center"><a href="https://github.com/MarkMdvn/Movie-Rating-WebApp"><img src="https://github.com/MarkMdvn/Movie-Rating-WebApp/blob/main/images/Main_img.png" alt="Rate a Movie" width="400px"></a></div> |
+| <div align="center">Built a full-stack Digital Library platform for advanced content management and user interaction. The system features a complete book cataloging module, user account management with borrowing history, and an intuitive interface for content discovery and engagement.</div> | <div align="center">Created a dynamic Movie Rating and Discovery Platform by integrating with the TMDB external API. This application allows users to contribute ratings and build a community-driven recommendation engine, showcasing skills in third-party API integration and user-generated content systems.</div> |
+-->
+
 ### 📊 Stats
 
 <!-- different achievments -->
@@ -61,6 +64,4 @@ Full-stack developer specializing in AI development and system architecture on A
 <details>
  <summary><h3>👨‍💻 More about me </h3></summary>
    <!-- more about me -->
- Full-Stack Developer specializing in backend development and cloud architecture with AWS. I work on a wide range of projects, applying my expertise in technologies such as Java, Spring Boot, SQL (PostgreSQL and MySQL), Maven, HTML, CSS, JavaScript, Python, Git, and more.
 
-Beyond my professional work, I continuously expand my knowledge, allowing me to develop both backend and frontend solutions efficiently. My goal is to keep growing in the industry, refining my skills, and building scalable, high-performance applications.
