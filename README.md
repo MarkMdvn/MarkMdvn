@@ -34,10 +34,16 @@ Full-stack developer specializing in AI development and system architecture on A
 
 ### 🛠️ Projects
 
+| 👑Embeddable AI Web Chatbot Assistant👑 | Custom QR - WordPress Discount Plugin |
+| ------- | ----------- |
+|  <a href="https://github.com/MarkMdvn/aws-web-chatbot"><img src="https://github.com/MarkMdvn/aws-web-chatbot/blob/main/docs/assets/3-both-cases.jpg" alt="Web AI Assistant" width="400px"></a> | <a href="https://github.com/MarkMdvn/qr-discount-wp"><img src="https://github.com/MarkMdvn/qr-discount-wp/blob/main/public/github-readme-images/2-transacciones-realizadas.png" alt="Custom QR" width="400px"></a> |  
+| <div align="center"> epoint.es - alcamancha.es </div> | <div align="center"> 40+ companies and 900+ users participated </div> |
+
+
 | 👑Wallapop clone👑 | Hotel Managment webapp |
 | ------- | ----------- |
 |  <a href="https://github.com/MarkMdvn/uallapop"><img src="https://github.com/MarkMdvn/uallapop/blob/main/WallapopClient/public/github-images/main-img.png" alt="Uallapop" width="400px"></a> | <a href="https://github.com/MarkMdvn/FarHouse"><img src="https://github.com/MarkMdvn/FarHouse/blob/main/Hotel-Project-Frontend/public/readme-images/1-Main-Homepage.png" alt="FarHouse" width="400px"></a> |  
-| <div align="center">Work in progress... </div> | <div align="center">12/06/2024 - Project will be online soon! </div> |
+| <div align="center">Work in progress... </div> | <div align="center"> Project will be online soon! </div> |
 
 
 | Online Library | Movie rating system |
