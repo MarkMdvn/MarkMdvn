@@ -6,7 +6,7 @@
 <br>
 Full-stack architect specializing in AI-driven applications and scalable AWS infrastructure. I'm driven by the fact that our world is becoming irreversibly digital. To me, knowledge of these systems is power—the power to architect real-world change directly from my keyboard. 
 
-Curious to see my work? Visit my website. You won't regret it.
+
 </p>
 <br>
    <p align="left">
