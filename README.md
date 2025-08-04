@@ -1,10 +1,12 @@
 # Mark Mordvin
 
-**`Full-stack developer`**
+**`Digital Transformation Specialist & Solutions Architect`**
 
 <p>
 <br>
-Full-stack architect specializing in AI-driven applications and scalable AWS infrastructure. I'm driven by the fact that our world is becoming irreversibly digital. To me, knowledge of these systems is power—the power to architect real-world change directly from my keyboard. 
+Solutions-oriented and adaptable engineer with a strong foundation in backend development using Java and Spring. My professional journey has evolved into a comprehensive expertise in digital transformation, where I specialize in architecting and implementing end-to-end solutions that drive business growth. 
+   
+I bridge the gap between business requirements and technical execution, leveraging a wide range of technologies including Odoo for ERP customization, Next.js and WordPress for web development, and n8n for complex process automation. My experience extends from direct client consultation and project management to hands-on development and deployment, always with a focus on delivering robust, scalable, and valuable products. I am now passionately channeling this broad technical background into a specialization in Artificial Intelligence and Machine Learning, aiming to build the next generation of intelligent systems.
 
 
 </p>
@@ -63,7 +65,30 @@ Full-stack architect specializing in AI-driven applications and scalable AWS inf
 
 <details>
  <summary><h3>👨‍💻 More about me </h3></summary>
-   <!-- more about me -->
-A Full-Stack Architect with a deep focus on crafting robust backend systems and scalable cloud infrastructure on AWS. My expertise is centered on the Java ecosystem—leveraging Spring Boot, Maven, and SQL databases like PostgreSQL and MySQL to build enterprise-grade applications. While my specialty is the backend, I maintain full-stack proficiency with Python and JavaScript to engineer seamless, end-to-end solutions.
+   
+My career has been defined by a "trial-by-fire" philosophy, where I've consistently embraced complex challenges and rapidly mastered the necessary technologies to deliver results. This has given me a unique, full-spectrum view of how technology can transform a business from the ground up.
 
-My commitment is to continuous improvement; I don't just learn new technologies, I integrate them to refine my approach to building high-performance software. The goal is always the same: to create applications that are not just functional, but truly exceptional.
+### Core Competencies
+
+I'm comfortable working across the entire stack and lifecycle of a project. My key skills include:
+
+* **🚀 ERP & Business Process Automation:** Implementing and customizing Odoo to fit precise business workflows, integrating CRM systems, and building complex automation sequences with tools like n8n and Botpress.
+* **💻 Full-Stack Development:**
+    * **Backend:** Proficient in Java (Spring), with growing expertise in Python for AI/ML applications.
+    * **Frontend & CMS:** Building dynamic web applications with Next.js (React) and developing/customizing feature-rich websites on WordPress, including custom plugin development.
+    * **AI & Chatbots:** Practical experience in developing AI-powered chatbots, including implementing RAG (Retrieval-Augmented Generation) models for custom knowledge bases.
+* **🔧 Infrastructure & DevOps:** Managing Linux environments, version control with Git, and handling the full scope of server configuration, hosting, domains, and deployment (SSH, FTP).
+
+### My Philosophy
+
+* **Problem-First Approach:** I don't just build features; I solve problems. I excel at understanding the core business need before writing a single line of code.
+* **Pragmatism and Ownership:** I take full ownership of my projects, from the initial client call to the final deployment. I am a self-directed learner who thrives on figuring out complex systems independently.
+* **Building Bridges:** I enjoy being the connection point between stakeholders and technology, translating technical possibilities into business value and client requirements into functional code.
+
+#### 🌱 What I'm Learning Now
+
+To future-proof my skills and follow my passion, I am dedicating my learning time to specializing in AI/ML. My current goals are:
+
+* Deepening my proficiency in **Python** and its core data science libraries (Pandas, NumPy, Scikit-learn).
+* Mastering cloud-based machine learning pipelines, with a focus on **AWS**.
+* Achieving the **AWS Certified Solutions Architect - Associate** and **AWS Certified Machine Learning – Specialty** certifications.
