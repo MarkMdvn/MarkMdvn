@@ -2,15 +2,9 @@
 
 **`Digital Transformation Specialist & Solutions Architect`**
 
-<p>
-<br>
 Solutions-oriented and adaptable engineer with a strong foundation in backend development using Java and Spring. My professional journey has evolved into a comprehensive expertise in digital transformation, where I specialize in architecting and implementing end-to-end solutions that drive business growth. 
    
 I bridge the gap between business requirements and technical execution, leveraging a wide range of technologies including Odoo for ERP customization, Next.js and WordPress for web development, and n8n for complex process automation. My experience extends from direct client consultation and project management to hands-on development and deployment, always with a focus on delivering robust, scalable, and valuable products. I am now passionately channeling this broad technical background into a specialization in Artificial Intelligence and Machine Learning, aiming to build the next generation of intelligent systems.
-
-
-</p>
-
 
 ---
 
@@ -32,20 +26,9 @@ I bridge the gap between business requirements and technical execution, leveragi
 | <div align="center"><a href="https://github.com/MarkMdvn/uallapop"><img src="https://github.com/MarkMdvn/uallapop/blob/main/WallapopClient/public/github-images/main-img.png" alt="Uallapop" width="400px"></a></div> | <div align="center"><a href="https://github.com/MarkMdvn/FarHouse"><img src="https://github.com/MarkMdvn/FarHouse/blob/main/Hotel-Project-Frontend/public/readme-images/1-Main-Homepage.png" alt="FarHouse" width="400px"></a></div> |
 | <div align="center">Developing a full-stack e-commerce marketplace inspired by Wallapop. The platform features robust user authentication, dynamic product listing and management, and advanced search capabilities, engineered to handle complex user interactions on a modern technology stack.</div> | <div align="center">Engineered a comprehensive Hotel Management System designed to streamline hospitality operations. This web application provides administrators with a powerful suite of tools for booking management, room inventory control, and guest services, enhancing both operational efficiency and the guest experience.</div> |
 
-<!--
-| Online Library | Movie rating system |
-| :---: | :---: |
-| <div align="center"><a href="https://github.com/DaVinci0003/LibraryDemo"><img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/img.png" alt="Online Library" width="400px"></a></div> | <div align="center"><a href="https://github.com/MarkMdvn/Movie-Rating-WebApp"><img src="https://github.com/MarkMdvn/Movie-Rating-WebApp/blob/main/images/Main_img.png" alt="Rate a Movie" width="400px"></a></div> |
-| <div align="center">Built a full-stack Digital Library platform for advanced content management and user interaction. The system features a complete book cataloging module, user account management with borrowing history, and an intuitive interface for content discovery and engagement.</div> | <div align="center">Created a dynamic Movie Rating and Discovery Platform by integrating with the TMDB external API. This application allows users to contribute ratings and build a community-driven recommendation engine, showcasing skills in third-party API integration and user-generated content systems.</div> |
--->
-
 ### Stats
-
-<!-- different achievments -->
 ![MarkMdvn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarkMdvn&theme=nightowl&hide_border=true)
 ![MarkMdvn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMdvn&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
-
-#
 
 <details>
  <summary><h3>👨‍💻 More about me </h3></summary>
