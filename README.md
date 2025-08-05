@@ -31,7 +31,7 @@ I bridge the gap between business requirements and technical execution, leveragi
 ![MarkMdvn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMdvn&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
 <details>
- <summary><h3>👨‍💻 More about me </h3></summary>
+ <summary><h3>More about me </h3></summary>
    
 My career has been defined by a "trial-by-fire" philosophy, where I've consistently embraced complex challenges and rapidly mastered the necessary technologies to deliver results. This has given me a unique, full-spectrum view of how technology can transform a business from the ground up.
 
@@ -39,12 +39,12 @@ My career has been defined by a "trial-by-fire" philosophy, where I've consisten
 
 I'm comfortable working across the entire stack and lifecycle of a project. My key skills include:
 
-* **🚀 ERP & Business Process Automation:** Implementing and customizing Odoo to fit precise business workflows, integrating CRM systems, and building complex automation sequences with tools like n8n and Botpress.
-* **💻 Full-Stack Development:**
+* **ERP & Business Process Automation:** Implementing and customizing Odoo to fit precise business workflows, integrating CRM systems, and building complex automation sequences with tools like n8n and Botpress.
+* **Full-Stack Development:**
     * **Backend:** Proficient in Java (Spring), with growing expertise in Python for AI/ML applications.
     * **Frontend & CMS:** Building dynamic web applications with Next.js (React) and developing/customizing feature-rich websites on WordPress, including custom plugin development.
     * **AI & Chatbots:** Practical experience in developing AI-powered chatbots, including implementing RAG (Retrieval-Augmented Generation) models for custom knowledge bases.
-* **🔧 Infrastructure & DevOps:** Managing Linux environments, version control with Git, and handling the full scope of server configuration, hosting, domains, and deployment (SSH, FTP).
+* **Infrastructure & DevOps:** Managing Linux environments, version control with Git, and handling the full scope of server configuration, hosting, domains, and deployment (SSH, FTP).
 
 ### My Philosophy
 
@@ -52,7 +52,7 @@ I'm comfortable working across the entire stack and lifecycle of a project. My k
 * **Pragmatism and Ownership:** I take full ownership of my projects, from the initial client call to the final deployment. I am a self-directed learner who thrives on figuring out complex systems independently.
 * **Building Bridges:** I enjoy being the connection point between stakeholders and technology, translating technical possibilities into business value and client requirements into functional code.
 
-#### 🌱 What I'm Learning Now
+#### What I'm Learning Now
 
 To future-proof my skills and follow my passion, I am dedicating my learning time to specializing in AI/ML. My current goals are:
 
