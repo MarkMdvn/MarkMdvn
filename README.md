@@ -27,7 +27,7 @@ I bridge the gap between business requirements and technical execution, leveragi
 | <div align="center">Developing a full-stack e-commerce marketplace inspired by Wallapop. The platform features robust user authentication, dynamic product listing and management, and advanced search capabilities, engineered to handle complex user interactions on a modern technology stack.</div> | <div align="center">Engineered a comprehensive Hotel Management System designed to streamline hospitality operations. This web application provides administrators with a powerful suite of tools for booking management, room inventory control, and guest services, enhancing both operational efficiency and the guest experience.</div> |
 
 
-![MarkMdvn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMdvn&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+<!-- ![MarkMdvn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMdvn&theme=nightowl&show_icons=true&hide_border=true&layout=compact) -->
 
 <details>
  <summary><h3>More about me </h3></summary>
