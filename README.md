@@ -2,8 +2,8 @@
 
 **`Digital Transformation Specialist & Solutions Architect`**
 
-Solutions-oriented and adaptable engineer with a strong foundation in backend development using Java and Spring. My professional journey has evolved into a comprehensive expertise in digital transformation, where I specialize in architecting and implementing end-to-end solutions that drive business growth. 
-   
+Solutions-oriented and adaptable engineer with a strong foundation in backend development using Java and Spring. My professional journey has evolved into a comprehensive expertise in digital transformation, where I specialize in architecting and implementing end-to-end solutions that drive business growth. 
+   
 I bridge the gap between business requirements and technical execution, leveraging a wide range of technologies including Odoo for ERP customization, Next.js and WordPress for web development, and n8n for complex process automation. My experience extends from direct client consultation and project management to hands-on development and deployment, always with a focus on delivering robust, scalable, and valuable products. I am now passionately channeling this broad technical background into a specialization in Artificial Intelligence and Machine Learning, aiming to build the next generation of intelligent systems.
 
 ---
@@ -14,20 +14,74 @@ I bridge the gap between business requirements and technical execution, leveragi
 | :---: | :---: | :---: | :---: |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="35" height="35"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="35" height="35"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/> | <img src="https://cdn.simpleicons.org/odoo/7C7BAD" alt="Odoo" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="35" height="35"/> <img src="https://cdn.simpleicons.org/n8n/1A82FF" alt="n8n" width="35" height="35"/> <img src="https://cdn.brandfetch.io/idxH5IeWYH/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751166543527" alt="Botpress" width="35" height="35"/> |
 
-### 🛠Main Projects
+### 🛠 Main Projects
 
-| 👑 Embeddable AI Web Chatbot Assistant 👑 | Custom QR - WordPress Discount Plugin |
-| :---: | :---: |
-| <div align="center"><a href="https://github.com/MarkMdvn/aws-web-chatbot"><img src="https://github.com/MarkMdvn/aws-web-chatbot/blob/main/docs/assets/3-both-cases.jpg" alt="Web AI Assistant" width="400px"></a></div> | <div align="center"><a href="https://github.com/MarkMdvn/qr-discount-wp"><img src="https://github.com/MarkMdvn/qr-discount-wp/blob/main/public/github-readme-images/2-transacciones-realizadas.png" alt="Custom QR" width="400px"></a></div> |
-| <div align="center">Architected a serverless AI assistant to automate customer engagement. This scalable, embeddable solution leverages AWS Lambda and Large Language Models to provide intelligent, real-time support for clients like epoint.es, significantly reducing response times.</div> | <div align="center">Developed a complete digital campaign ecosystem from scratch. This custom WordPress plugin empowered over 40 companies to process secure QR code-based discounts for 900+ users, featuring multi-layered dashboards for real-time transaction monitoring and data analysis.</div> |
+<table>
+  <tr>
+    <td width="35%" valign="top">
+      <a href="https://github.com/MarkMdvn/aidoo">
+        <img src="https://github.com/MarkMdvn/aidoo/blob/main/public/images/products-example.png?raw=true" alt="Aidoo ERP Assistant" width="100%">
+      </a>
+    </td>
+    <td width="65%" valign="top">
+      <h3><a href="https://github.com/MarkMdvn/aidoo">Aidoo - AI ERP Assistant</a></h3>
+      <p><strong>Tech Stack:</strong> Next.js, Supabase (pgvector), OpenAI, TypeScript.</p>
+      <p>A SaaS platform that bridges the gap between complex ERP data and natural language interaction using RAG. It empowers users to query, analyze, and interact with their Odoo instances using conversational AI with strict read-only security protocols.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="35%" valign="top">
+      <a href="https://github.com/MarkMdvn/uallapop">
+        <img src="https://github.com/MarkMdvn/uallapop/blob/main/WallapopClient/public/github-images/main-img.png" alt="Uallapop Marketplace" width="100%">
+      </a>
+    </td>
+    <td width="65%" valign="top">
+      <h3><a href="https://github.com/MarkMdvn/uallapop">Uallapop - Marketplace Clone</a></h3>
+      <p><strong>Tech Stack:</strong> Java Spring Boot, React, MySQL, Docker, AWS.</p>
+      <p>A comprehensive full-stack e-commerce marketplace inspired by Wallapop. Engineered with a decoupled architecture, it features robust user authentication, a polymorphic data model for dynamic product categories, and advanced search capabilities.</p>
+    </td>
+  </tr>
 
-| 👑 Wallapop clone 👑 | Hotel Managment webapp |
-| :---: | :---: |
-| <div align="center"><a href="https://github.com/MarkMdvn/uallapop"><img src="https://github.com/MarkMdvn/uallapop/blob/main/WallapopClient/public/github-images/main-img.png" alt="Uallapop" width="400px"></a></div> | <div align="center"><a href="https://github.com/MarkMdvn/FarHouse"><img src="https://github.com/MarkMdvn/FarHouse/blob/main/Hotel-Project-Frontend/public/readme-images/1-Main-Homepage.png" alt="FarHouse" width="400px"></a></div> |
-| <div align="center">Developing a full-stack e-commerce marketplace inspired by Wallapop. The platform features robust user authentication, dynamic product listing and management, and advanced search capabilities, engineered to handle complex user interactions on a modern technology stack.</div> | <div align="center">Engineered a comprehensive Hotel Management System designed to streamline hospitality operations. This web application provides administrators with a powerful suite of tools for booking management, room inventory control, and guest services, enhancing both operational efficiency and the guest experience.</div> |
+  <tr>
+    <td width="35%" valign="top">
+      <a href="https://github.com/MarkMdvn/aws-web-chatbot">
+        <img src="https://github.com/MarkMdvn/aws-web-chatbot/blob/main/docs/assets/3-both-cases.jpg" alt="AI Web Assistant" width="100%">
+      </a>
+    </td>
+    <td width="65%" valign="top">
+      <h3><a href="https://github.com/MarkMdvn/aws-web-chatbot">Embeddable AI Web Assistant</a></h3>
+      <p><strong>Tech Stack:</strong> AWS Lambda, Python, LLMs, HTML/JS Widget.</p>
+      <p>Architected a serverless, embeddable AI assistant to automate customer engagement. This scalable solution leverages AWS Lambda to provide intelligent, real-time support for clients like epoint.es, significantly reducing support ticket volume.</p>
+    </td>
+  </tr>
 
+  <tr>
+    <td width="35%" valign="top">
+      <a href="https://github.com/MarkMdvn/qr-discount-wp">
+        <img src="https://github.com/MarkMdvn/qr-discount-wp/blob/main/public/github-readme-images/2-transacciones-realizadas.png" alt="Custom QR Plugin" width="100%">
+      </a>
+    </td>
+    <td width="65%" valign="top">
+      <h3><a href="https://github.com/MarkMdvn/qr-discount-wp">Custom QR Discount Plugin</a></h3>
+      <p><strong>Tech Stack:</strong> WordPress, PHP, JavaScript, SQL.</p>
+      <p>Developed a complete digital campaign ecosystem from scratch. This custom plugin empowered over 40 companies to process secure QR code-based discounts for 900+ users, featuring real-time transaction monitoring and admin dashboards.</p>
+    </td>
+  </tr>
 
-<!-- ![MarkMdvn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMdvn&theme=nightowl&show_icons=true&hide_border=true&layout=compact) -->
+  <tr>
+    <td width="35%" valign="top">
+      <a href="https://github.com/MarkMdvn/FarHouse">
+        <img src="https://github.com/MarkMdvn/FarHouse/blob/main/Hotel-Project-Frontend/public/readme-images/1-Main-Homepage.png" alt="Hotel Management" width="100%">
+      </a>
+    </td>
+    <td width="65%" valign="top">
+      <h3><a href="https://github.com/MarkMdvn/FarHouse">Hotel Management System</a></h3>
+      <p><strong>Tech Stack:</strong> Java Spring Boot, Hibernate, Thymeleaf.</p>
+      <p>Engineered a comprehensive system to streamline hospitality operations. The application provides administrators with a powerful suite of tools for booking management, room inventory control, and guest services.</p>
+    </td>
+  </tr>
+</table>
 
 <details>
  <summary><h3>More about me </h3></summary>
@@ -58,3 +112,4 @@ To future-proof my skills and follow my passion, I am dedicating my learning tim
 * Deepening my proficiency in **Python** and its core data science libraries (Pandas, NumPy, Scikit-learn).
 * Mastering cloud-based machine learning pipelines, with a focus on **AWS**.
 * Achieving the **AWS Certified Solutions Architect - Associate** and **AWS Certified Machine Learning – Specialty** certifications.
+</details>
