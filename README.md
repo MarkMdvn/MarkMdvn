@@ -18,67 +18,67 @@ I bridge the gap between business requirements and technical execution, leveragi
 
 <table>
   <tr>
-    <td width="35%" valign="top">
+    <td width="35%" valign="middle">
       <a href="https://github.com/MarkMdvn/aidoo">
         <img src="https://github.com/MarkMdvn/aidoo/blob/main/public/images/products-example.png?raw=true" alt="Aidoo ERP Assistant" width="100%">
       </a>
     </td>
-    <td width="65%" valign="top">
-      <h3><a href="https://github.com/MarkMdvn/aidoo">Aidoo - AI ERP Assistant</a></h3>
-      <p><strong>Tech Stack:</strong> Next.js, Supabase (pgvector), OpenAI, TypeScript.</p>
-      <p>A SaaS platform that bridges the gap between complex ERP data and natural language interaction using RAG. It empowers users to query, analyze, and interact with their Odoo instances using conversational AI with strict read-only security protocols.</p>
+    <td width="65%" valign="middle">
+      <a href="https://github.com/MarkMdvn/aidoo"><b>Aidoo - AI ERP Assistant</b></a><br>
+      <b>Tech Stack:</b> Next.js, Supabase (pgvector), OpenAI, TypeScript.<br><br>
+      A SaaS platform that bridges the gap between complex ERP data and natural language interaction using RAG. It empowers users to query, analyze, and interact with their Odoo instances using conversational AI with strict read-only security protocols.
     </td>
   </tr>
   
   <tr>
-    <td width="35%" valign="top">
+    <td width="35%" valign="middle">
       <a href="https://github.com/MarkMdvn/uallapop">
         <img src="https://github.com/MarkMdvn/uallapop/blob/main/WallapopClient/public/github-images/main-img.png" alt="Uallapop Marketplace" width="100%">
       </a>
     </td>
-    <td width="65%" valign="top">
-      <h3><a href="https://github.com/MarkMdvn/uallapop">Uallapop - Marketplace Clone</a></h3>
-      <p><strong>Tech Stack:</strong> Java Spring Boot, React, MySQL, Docker, AWS.</p>
-      <p>A comprehensive full-stack e-commerce marketplace inspired by Wallapop. Engineered with a decoupled architecture, it features robust user authentication, a polymorphic data model for dynamic product categories, and advanced search capabilities.</p>
+    <td width="65%" valign="middle">
+      <a href="https://github.com/MarkMdvn/uallapop"><b>Uallapop - Marketplace Clone</b></a><br>
+      <b>Tech Stack:</b> Java Spring Boot, React, MySQL, Docker, AWS.<br><br>
+      A comprehensive full-stack e-commerce marketplace inspired by Wallapop. Engineered with a decoupled architecture, it features robust user authentication, a polymorphic data model for dynamic product categories, and advanced search capabilities.
     </td>
   </tr>
 
   <tr>
-    <td width="35%" valign="top">
+    <td width="35%" valign="middle">
       <a href="https://github.com/MarkMdvn/aws-web-chatbot">
         <img src="https://github.com/MarkMdvn/aws-web-chatbot/blob/main/docs/assets/3-both-cases.jpg" alt="AI Web Assistant" width="100%">
       </a>
     </td>
-    <td width="65%" valign="top">
-      <h3><a href="https://github.com/MarkMdvn/aws-web-chatbot">Embeddable AI Web Assistant</a></h3>
-      <p><strong>Tech Stack:</strong> AWS Lambda, Python, LLMs, HTML/JS Widget.</p>
-      <p>Architected a serverless, embeddable AI assistant to automate customer engagement. This scalable solution leverages AWS Lambda to provide intelligent, real-time support for clients like epoint.es, significantly reducing support ticket volume.</p>
+    <td width="65%" valign="middle">
+      <a href="https://github.com/MarkMdvn/aws-web-chatbot"><b>Embeddable AI Web Assistant</b></a><br>
+      <b>Tech Stack:</b> AWS Lambda, Python, LLMs, HTML/JS Widget.<br><br>
+      Architected a serverless, embeddable AI assistant to automate customer engagement. This scalable solution leverages AWS Lambda to provide intelligent, real-time support for clients like epoint.es, significantly reducing support ticket volume.
     </td>
   </tr>
 
   <tr>
-    <td width="35%" valign="top">
+    <td width="35%" valign="middle">
       <a href="https://github.com/MarkMdvn/qr-discount-wp">
         <img src="https://github.com/MarkMdvn/qr-discount-wp/blob/main/public/github-readme-images/2-transacciones-realizadas.png" alt="Custom QR Plugin" width="100%">
       </a>
     </td>
-    <td width="65%" valign="top">
-      <h3><a href="https://github.com/MarkMdvn/qr-discount-wp">Custom QR Discount Plugin</a></h3>
-      <p><strong>Tech Stack:</strong> WordPress, PHP, JavaScript, SQL.</p>
-      <p>Developed a complete digital campaign ecosystem from scratch. This custom plugin empowered over 40 companies to process secure QR code-based discounts for 900+ users, featuring real-time transaction monitoring and admin dashboards.</p>
+    <td width="65%" valign="middle">
+      <a href="https://github.com/MarkMdvn/qr-discount-wp"><b>Custom QR Discount Plugin</b></a><br>
+      <b>Tech Stack:</b> WordPress, PHP, JavaScript, SQL.<br><br>
+      Developed a complete digital campaign ecosystem from scratch. This custom plugin empowered over 40 companies to process secure QR code-based discounts for 900+ users, featuring real-time transaction monitoring and admin dashboards.
     </td>
   </tr>
 
   <tr>
-    <td width="35%" valign="top">
+    <td width="35%" valign="middle">
       <a href="https://github.com/MarkMdvn/FarHouse">
         <img src="https://github.com/MarkMdvn/FarHouse/blob/main/Hotel-Project-Frontend/public/readme-images/1-Main-Homepage.png" alt="Hotel Management" width="100%">
       </a>
     </td>
-    <td width="65%" valign="top">
-      <h3><a href="https://github.com/MarkMdvn/FarHouse">Hotel Management System</a></h3>
-      <p><strong>Tech Stack:</strong> Java Spring Boot, Hibernate, Thymeleaf.</p>
-      <p>Engineered a comprehensive system to streamline hospitality operations. The application provides administrators with a powerful suite of tools for booking management, room inventory control, and guest services.</p>
+    <td width="65%" valign="middle">
+      <a href="https://github.com/MarkMdvn/FarHouse"><b>Hotel Management System</b></a><br>
+      <b>Tech Stack:</b> Java Spring Boot, Hibernate, Thymeleaf.<br><br>
+      Engineered a comprehensive system to streamline hospitality operations. The application provides administrators with a powerful suite of tools for booking management, room inventory control, and guest services.
     </td>
   </tr>
 </table>
