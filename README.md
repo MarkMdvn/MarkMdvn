@@ -3,7 +3,7 @@
 **`Digital Transformation Specialist & Solutions Architect`**
 
 Solutions-oriented and adaptable engineer with a strong foundation in backend development using Java and Spring. My professional journey has evolved into a comprehensive expertise in digital transformation, where I specialize in architecting and implementing end-to-end solutions that drive business growth. 
-   
+<br>
 I bridge the gap between business requirements and technical execution, leveraging a wide range of technologies including Odoo for ERP customization, Next.js and WordPress for web development, and n8n for complex process automation. My experience extends from direct client consultation and project management to hands-on development and deployment, always with a focus on delivering robust, scalable, and valuable products. I am now passionately channeling this broad technical background into a specialization in Artificial Intelligence and Machine Learning, aiming to build the next generation of intelligent systems.
 
 ---
