@@ -108,4 +108,4 @@ A couple of marketing sites I built: [mordvina.com](https://mordvina.com) and [v
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/markmdvn/) · mark.mdvn@gmail.com
-a
+
