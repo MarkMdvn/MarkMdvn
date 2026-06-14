@@ -69,16 +69,16 @@ Most of my strongest work is private or client-owned. A representative sample:
   </tr>
   <tr>
     <td width="22%" valign="top">
-      <a href="https://github.com/MarkMdvn/FarHouse">
-        <img src="https://raw.githubusercontent.com/MarkMdvn/FarHouse/main/Hotel-Project-Frontend/public/readme-images/1-Main-Homepage.png" width="100%" alt="FarHouse" />
+      <a href="https://github.com/MarkMdvn/aws-web-chatbot">
+        <img src="https://raw.githubusercontent.com/MarkMdvn/aws-web-chatbot/main/docs/assets/3-both-cases.jpg" width="100%" alt="Embeddable AI chat widget" />
       </a>
     </td>
     <td width="78%" valign="top">
-      <a href="https://github.com/MarkMdvn/FarHouse"><b>FarHouse - hotel management</b></a>
+      <a href="https://github.com/MarkMdvn/aws-web-chatbot"><b>Embeddable AI chat widget</b></a>
       <br /><br />
-      Booking and operations system: room inventory, date-range reservations with conflict detection, role-based access and an admin panel.
+      A chat assistant that drops into any website (configured for epoint.es): serverless, backed by an AWS Bedrock agent, with streaming responses.
       <br /><br />
-      <b>Stack:</b> Java, Spring Boot, Hibernate, React
+      <b>Stack:</b> Next.js, TypeScript, AWS Bedrock, Vercel AI SDK
     </td>
   </tr>
   <tr>
@@ -108,4 +108,3 @@ A couple of marketing sites I built: [mordvina.com](https://mordvina.com) and [v
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/markmdvn/) · mark.mdvn@gmail.com
-
