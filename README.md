@@ -1,115 +1,111 @@
 # Mark Mordvin
 
-**`Digital Transformation Specialist & Solutions Architect`**
+**Software engineer. I build complete systems end to end, from data architecture to deployment.**
 
-Solutions-oriented and adaptable engineer with a strong foundation in backend development using Java and Spring. My professional journey has evolved into a comprehensive expertise in digital transformation, where I specialize in architecting and implementing end-to-end solutions that drive business growth. 
-<br>
-I bridge the gap between business requirements and technical execution, leveraging a wide range of technologies including Odoo for ERP customization, Next.js and WordPress for web development, and n8n for complex process automation. My experience extends from direct client consultation and project management to hands-on development and deployment, always with a focus on delivering robust, scalable, and valuable products. I am now passionately channeling this broad technical background into a specialization in Artificial Intelligence and Machine Learning, aiming to build the next generation of intelligent systems.
+I lead technical development at epoint, a digital transformation agency, where I rebuilt the company's ERP (Odoo) and corporate website and deliver client projects end to end. I also build my own products. My work spans full-stack development, applied AI, and business and ERP automation.
 
----
+I have delivered for institutions and companies including the Ayuntamiento de Orgaz, the Ayuntamiento de Belmonte, FEDETO, Cereales Alcamancha, and the Bono Comercio Toledo program (40+ local businesses). I care about correctness: atomic database operations, automated tests, and security reviews of my own code.
 
-### Languages and Tools
+## Tech
 
-| Backend | Frontend | Cloud & DevOps | Platforms & Automation |
-| :---: | :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="35" height="35"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="35" height="35"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/> | <img src="https://cdn.simpleicons.org/odoo/7C7BAD" alt="Odoo" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="35" height="35"/> <img src="https://cdn.simpleicons.org/n8n/1A82FF" alt="n8n" width="35" height="35"/> <img src="https://cdn.brandfetch.io/idxH5IeWYH/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751166543527" alt="Botpress" width="35" height="35"/> |
+|   |   |
+| --- | --- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Frameworks** | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native_(Expo)-000020?style=flat-square&logo=expo&logoColor=white) |
+| **Data and infrastructure** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black) ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| **AI** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square) ![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square) |
+| **Platforms and integrations** | ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
 
-### 🛠 Main Projects
+## Selected systems
+
+Most of my strongest work is private or client-owned. A representative sample:
+
+**Applied AI**
+- **AI document-to-Excel SaaS** - turns invoices, statements and photos into structured spreadsheets with vision models, plus a Spanish tax engine (VAT 21/10/4, modelo 303/130) and subscription billing.
+- **Legal RAG assistant** - answers grounded in the official Spanish state gazette (BOE) with citations; pgvector with an HNSW index.
+- **Multi-tenant AI chatbot platform** - white-label assistants configured per client, each with its own RAG knowledge base, moderation and embeddable widget.
+- **AI short-form video studio** - generates vertical videos end to end (script, voice, animated visuals and programmatic render) across five TTS providers.
+
+**Systems and integrations**
+- **Biometric attendance into an ERP** - streams data from facial-recognition terminals into an ERP in real time by reverse-engineering the terminal push protocol; includes payroll e-signing over WhatsApp.
+- **Omnichannel inbox** - email, WhatsApp and WeChat unified in a single inbox with AI triage and assisted replies.
+- **Industrial ERP integration** - mirrors a 33,000-record ERP into Postgres over an undocumented SOAP API, cutting a full sync from 30s to about 3s.
+- **Apple and Google Wallet loyalty** - a loyalty-card platform issuing native Apple and Google Wallet passes in production.
+
+**Fintech and quant**
+- **Fiscal-grade POS and invoicing** - Spanish tax-compliant: atomic gap-free numbering, immutable rectifying invoices, modelo 303/130, full audit log.
+- **Quantitative trading platform** - four parallel strategies across crypto and US equities, a custom technical-indicator library, and several LLMs evaluated head-to-head; every rule backed by peer-reviewed research.
+
+## Public projects
 
 <table>
   <tr>
-    <td width="35%" valign="middle">
+    <td width="22%" valign="top">
       <a href="https://github.com/MarkMdvn/aidoo">
-        <img src="https://github.com/MarkMdvn/aidoo/blob/main/public/images/products-example.png?raw=true" alt="Aidoo ERP Assistant" width="100%">
+        <img src="https://raw.githubusercontent.com/MarkMdvn/aidoo/main/public/images/products-example.png" width="100%" alt="Aidoo" />
       </a>
     </td>
-    <td width="65%" valign="middle">
-      <a href="https://github.com/MarkMdvn/aidoo"><b>Aidoo - AI ERP Assistant</b></a><br>
-      <b>Tech Stack:</b> Next.js, Supabase (pgvector), OpenAI, TypeScript.<br><br>
-      A SaaS platform that bridges the gap between complex ERP data and natural language interaction using RAG. It empowers users to query, analyze, and interact with their Odoo instances using conversational AI with strict read-only security protocols.
+    <td width="78%" valign="top">
+      <a href="https://github.com/MarkMdvn/aidoo"><b>Aidoo - natural-language Odoo assistant</b></a>
+      <br /><br />
+      Query an Odoo ERP in plain language. Agentic RAG over the live ERP schema with vector search (pgvector), strictly read-only.
+      <br /><br />
+      <b>Stack:</b> Next.js, TypeScript, Vercel AI SDK, PostgreSQL/pgvector
     </td>
   </tr>
-  
   <tr>
-    <td width="35%" valign="middle">
+    <td width="22%" valign="top">
       <a href="https://github.com/MarkMdvn/uallapop">
-        <img src="https://github.com/MarkMdvn/uallapop/blob/main/WallapopClient/public/github-images/main-img.png" alt="Uallapop Marketplace" width="100%">
+        <img src="https://raw.githubusercontent.com/MarkMdvn/uallapop/main/WallapopClient/public/github-images/main-img.png" width="100%" alt="Uallapop" />
       </a>
     </td>
-    <td width="65%" valign="middle">
-      <a href="https://github.com/MarkMdvn/uallapop"><b>Uallapop - Marketplace Clone</b></a><br>
-      <b>Tech Stack:</b> Java Spring Boot, React, MySQL, Docker, AWS.<br><br>
-      A comprehensive full-stack e-commerce marketplace inspired by Wallapop. Engineered with a decoupled architecture, it features robust user authentication, a polymorphic data model for dynamic product categories, and advanced search capabilities.
+    <td width="78%" valign="top">
+      <a href="https://github.com/MarkMdvn/uallapop"><b>Uallapop - second-hand marketplace</b></a>
+      <br /><br />
+      Full-stack marketplace with a decoupled API, JWT authentication, a polymorphic product model with per-category forms, search and seller ratings.
+      <br /><br />
+      <b>Stack:</b> Java, Spring Boot, React, MySQL, Docker
     </td>
   </tr>
-
   <tr>
-    <td width="35%" valign="middle">
-      <a href="https://github.com/MarkMdvn/aws-web-chatbot">
-        <img src="https://github.com/MarkMdvn/aws-web-chatbot/blob/main/docs/assets/3-both-cases.jpg" alt="AI Web Assistant" width="100%">
-      </a>
-    </td>
-    <td width="65%" valign="middle">
-      <a href="https://github.com/MarkMdvn/aws-web-chatbot"><b>Embeddable AI Web Assistant</b></a><br>
-      <b>Tech Stack:</b> AWS Lambda, Python, LLMs, HTML/JS Widget.<br><br>
-      Architected a serverless, embeddable AI assistant to automate customer engagement. This scalable solution leverages AWS Lambda to provide intelligent, real-time support for clients like epoint.es, significantly reducing support ticket volume.
-    </td>
-  </tr>
-
-  <tr>
-    <td width="35%" valign="middle">
-      <a href="https://github.com/MarkMdvn/qr-discount-wp">
-        <img src="https://github.com/MarkMdvn/qr-discount-wp/blob/main/public/github-readme-images/2-transacciones-realizadas.png" alt="Custom QR Plugin" width="100%">
-      </a>
-    </td>
-    <td width="65%" valign="middle">
-      <a href="https://github.com/MarkMdvn/qr-discount-wp"><b>Custom QR Discount Plugin</b></a><br>
-      <b>Tech Stack:</b> WordPress, PHP, JavaScript, SQL.<br><br>
-      Developed a complete digital campaign ecosystem from scratch. This custom plugin empowered over 40 companies to process secure QR code-based discounts for 900+ users, featuring real-time transaction monitoring and admin dashboards.
-    </td>
-  </tr>
-
-  <tr>
-    <td width="35%" valign="middle">
+    <td width="22%" valign="top">
       <a href="https://github.com/MarkMdvn/FarHouse">
-        <img src="https://github.com/MarkMdvn/FarHouse/blob/main/Hotel-Project-Frontend/public/readme-images/1-Main-Homepage.png" alt="Hotel Management" width="100%">
+        <img src="https://raw.githubusercontent.com/MarkMdvn/FarHouse/main/Hotel-Project-Frontend/public/readme-images/1-Main-Homepage.png" width="100%" alt="FarHouse" />
       </a>
     </td>
-    <td width="65%" valign="middle">
-      <a href="https://github.com/MarkMdvn/FarHouse"><b>Hotel Management System</b></a><br>
-      <b>Tech Stack:</b> Java Spring Boot, Hibernate, Thymeleaf.<br><br>
-      Engineered a comprehensive system to streamline hospitality operations. The application provides administrators with a powerful suite of tools for booking management, room inventory control, and guest services.
+    <td width="78%" valign="top">
+      <a href="https://github.com/MarkMdvn/FarHouse"><b>FarHouse - hotel management</b></a>
+      <br /><br />
+      Booking and operations system: room inventory, date-range reservations with conflict detection, role-based access and an admin panel.
+      <br /><br />
+      <b>Stack:</b> Java, Spring Boot, Hibernate, React
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" valign="top">
+      <a href="https://github.com/MarkMdvn/qr-discount-wp">
+        <img src="https://raw.githubusercontent.com/MarkMdvn/qr-discount-wp/main/public/github-readme-images/2-transacciones-realizadas.png" width="100%" alt="QR Discount Platform" />
+      </a>
+    </td>
+    <td width="78%" valign="top">
+      <a href="https://github.com/MarkMdvn/qr-discount-wp"><b>QR Discount Platform</b></a>
+      <br /><br />
+      Discount-campaign system for a local program of 40+ businesses: per-user QR issuance by email, single-use in-store verification, and transaction dashboards.
+      <br /><br />
+      <b>Stack:</b> WordPress, PHP, MySQL
     </td>
   </tr>
 </table>
 
-<details>
- <summary><h3>More about me </h3></summary>
-   
-My career has been defined by a "trial-by-fire" philosophy, where I've consistently embraced complex challenges and rapidly mastered the necessary technologies to deliver results. This has given me a unique, full-spectrum view of how technology can transform a business from the ground up.
+## Currently
 
-### Core Competencies
+Going deeper into electronics and embedded systems.
 
-I'm comfortable working across the entire stack and lifecycle of a project. My key skills include:
+## Also
 
-* **ERP & Business Process Automation:** Implementing and customizing Odoo to fit precise business workflows, integrating CRM systems, and building complex automation sequences with tools like n8n and Botpress.
-* **Full-Stack Development:**
-    * **Backend:** Proficient in Java (Spring), with growing expertise in Python for AI/ML applications.
-    * **Frontend & CMS:** Building dynamic web applications with Next.js (React) and developing/customizing feature-rich websites on WordPress, including custom plugin development.
-    * **AI & Chatbots:** Practical experience in developing AI-powered chatbots, including implementing RAG (Retrieval-Augmented Generation) models for custom knowledge bases.
-* **Infrastructure & DevOps:** Managing Linux environments, version control with Git, and handling the full scope of server configuration, hosting, domains, and deployment (SSH, FTP).
+A couple of marketing sites I built: [mordvina.com](https://mordvina.com) and [vkulyk.com](https://vkulyk.com).
 
-### My Philosophy
+## Connect
 
-* **Problem-First Approach:** I don't just build features; I solve problems. I excel at understanding the core business need before writing a single line of code.
-* **Pragmatism and Ownership:** I take full ownership of my projects, from the initial client call to the final deployment. I am a self-directed learner who thrives on figuring out complex systems independently.
-* **Building Bridges:** I enjoy being the connection point between stakeholders and technology, translating technical possibilities into business value and client requirements into functional code.
-
-#### What I'm Learning Now
-
-To future-proof my skills and follow my passion, I am dedicating my learning time to specializing in AI/ML. My current goals are:
-
-* Deepening my proficiency in **Python** and its core data science libraries (Pandas, NumPy, Scikit-learn).
-* Mastering cloud-based machine learning pipelines, with a focus on **AWS**.
-* Achieving the **AWS Certified Solutions Architect - Associate** and **AWS Certified Machine Learning – Specialty** certifications.
-</details>
+[LinkedIn](https://www.linkedin.com/in/markmdvn/) · mark.mdvn@gmail.com
+a
